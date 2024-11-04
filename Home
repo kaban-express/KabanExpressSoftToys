@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Мягкие Игрушки</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            margin: 0;
+            padding: 20px;
+        }
+        h1 {
+            color: #34495e;
+        }
+        .product {
+            border: 1px solid #ccc;
+            border-radius: 5px;
+            padding: 10px;
+            margin: 10px 0;
+            background-color: #fff;
+        }
+        .product img {
+            max-width: 100%;
+            height: auto;
+        }
+    </style>
+</head>
+<body>
+    <h1>Добро пожаловать в мир мягких игрушек!</h1>
+    <div class="product">
+        <h2>Мягкая игрушка "Мишка"</h2>
+        <img src="path/to/your/image.jpg" alt="Мягкая игрушка Мишка">
+        <p>Цена: 500 руб.</p>
+        <p>Описание: Уютный и мягкий мишка, который станет верным другом для вашего ребенка!</p>
+    </div>
+    <div class="product">
+        <h2>Мягкая игрушка "Заяц"</h2>
+        <img src="path/to/your/image2.jpg" alt="Мягкая игрушка Заяц">
+        <p>Цена: 450 руб.</p>
+        <p>Описание: Мягкий заяц с большими ушками, который принесет радость в каждый дом!</p>
+    </div>
+    <footer>
+        <p>Контакты: ваш_email@example.com</p>
+    </footer>
+</body>
+</html>
